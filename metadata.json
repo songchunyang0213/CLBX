@@ -1,0 +1,9 @@
+{
+  "name": "差旅报销与智能发票管理系统",
+  "description": "企业级差旅报销与发票账单明细管理系统，支持发票自动识别、费用项目与交通工具档案配置、按档案规则动态合并报销明细、多对一追溯查看与费用汇总。",
+  "requestFrame": "full",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
